@@ -3,7 +3,7 @@
     <title>Old Barn Croscombe</title>
     <link href="https://blarked.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://blarked.github.io/gh-pages" />
-    <updated>2022-11-09T14:31:30+00:00</updated>
+    <updated>2022-11-09T15:23:49+00:00</updated>
     <author>
         <name>blark</name>
     </author>
@@ -152,7 +152,7 @@
         <link href="https://blarked.github.io/gh-pages/home/"/>
         <id>https://blarked.github.io/gh-pages/home/</id>
 
-        <updated>2022-11-09T14:31:30+00:00</updated>
+        <updated>2022-11-09T15:23:49+00:00</updated>
             <summary>
                 <![CDATA[
                     The Old Barn is a beautiful and historic holiday cottage located in Somerset, England. We offer cosy self-catered holiday accommodation for up to&hellip;
@@ -168,12 +168,12 @@
 <p>The barn was <a href="http://www.imagesofengland.org.uk/Details/Default.aspx?id=267507&amp;mode=quick">listed in 1985 by English Heritage</a> (note the English Heritage photo was taken pre-renovation!), an acknowledgement of the barn's historical significance.</p>
 <p>The barn lay unused, unloved and derelict for many years. When we purchased it in 2000 - having lived next door since the early 1970s - the roof was leaking and the interior was jammed with building materials and rubble. We have spent the last ten years converting the barn into a cosy holiday cottage.</p>
 <hr>
-<h2>Our facilities</h2>
+<h2 id="facilities">Our facilities</h2>
 <p>On the ground floor a large entrance hall opens on to one large fully furnished bedroom with one double bed, one single bed a desk and a chest of drawers. There is also a modern wet room with WC and a shower and a small alcove containing a washing machine. The Barn has underfloor heating which keeps it cosy throughout the year.</p>
 <p>Walking up the solid oak staircase you reach the gallery floor. This is the Barn's main living area containing an open plan kitchen/dining/living space. The kitchen is fully equipped with an electric hob, oven, fridge, microwave/grill as well as cutlery, crockery, cooking utensils etc.</p>
 <p>The living space holds a double futon sofa bed as well as other comfortable chairs. The Barn also has a TV with DVD player and a small selection of DVDs as well as a CD player/radio. The Barn also has free wi-fi for our guests.</p>
 <hr>
-<h2>About Somerset</h2>
+<h2 id="somerset">About Somerset</h2>
 <p>Somerset is one of the most beautiful and unspoilt counties in England. It is predominantly rural and the landscape varies from the rolling Mendip hills - which include the famous Cheddar Gorge - to the wildly beautiful Somerset Levels. The whole of Somerset is dotted with Areas of Outstanding Natural Beauty and Sites of Special Scientific Interest which should keep anyone interested in the outdoors busy for a very long time.</p>
 <p>In addition to its natural beauty there are many interesting towns and cities to visit for a day out including Wells, Bath, Glastonbury, Street and Bristol.</p>
 <h3>Croscombe</h3>
@@ -190,7 +190,7 @@
 <h3>Street</h3>
 <figure class="post__image post__image--left"><img loading="lazy"  src="https://blarked.github.io/gh-pages/media/posts/1/street.jpg" alt="" width="600" height="450" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blarked.github.io/gh-pages/media/posts/1/responsive/street-xs.jpg 300w ,https://blarked.github.io/gh-pages/media/posts/1/responsive/street-sm.jpg 480w ,https://blarked.github.io/gh-pages/media/posts/1/responsive/street-md.jpg 768w ,https://blarked.github.io/gh-pages/media/posts/1/responsive/street-lg.jpg 1024w ,https://blarked.github.io/gh-pages/media/posts/1/responsive/street-xl.jpg 1360w ,https://blarked.github.io/gh-pages/media/posts/1/responsive/street-2xl.jpg 1600w"></figure>The neighbouring town to Glastonbury, and home of Clarks shoes, Street is the perfect place for a bargain hunter. Clarks Village, a large outlet shopping centre, is situated here with shops as varied as Marks and Spencer, Jaeger, Le Creuset, and of course Clarks (both discount and full price). Street also has two swimming pools one of which, Greenbank Pool, is open air. This is the perfect place to spend a day with your family, take a picnic to enjoy in the extensive grounds and have fun in the wet play area as well as the pools.</p>
 <hr>
-<h2 id="ratestest">Rates 2022</h2>
+<h2 id="rates">Rates 2022</h2>
 <table>
 <tbody>
 <tr>
@@ -239,7 +239,7 @@
 <p>We generally offer daily or weekly rates (Saturday 4.00pm - Saturday 10.00am) but we have let the Barn for longer periods of time in the past - please contact us for further details. A non-returnable deposit of 15% is required on booking and full payment 6 weeks in advance of your arrival date. Please use the calendar below to check the availability of the Barn.</p>
 <h2>Availability Calendar</h2>
 <hr>
-<h2>Contact us</h2>
+<h2 id="contact">Contact us</h2>
 <p>For further enquiries or to make a booking please contact us using the details below.</p>
 <h3>Phone</h3>
 <p>+44(0)1749 343843</p>
