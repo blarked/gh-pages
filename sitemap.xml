@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://blarked.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.oldbarncroscombe.co.uk/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://blarked.github.io/gh-pages/</loc>
+<loc>https://www.oldbarncroscombe.co.uk/</loc>
 </url>
 <url>
-<loc>https://blarked.github.io/gh-pages/about-somerset/</loc>
+<loc>https://www.oldbarncroscombe.co.uk/about-somerset/</loc>
 <lastmod>2022-11-09T13:31:34+00:00</lastmod>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\2/croscombe-269x300.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\2/croscombe-269x300.jpg</image:loc>
 <image:title><![CDATA[A view of Croscombe in Somerset]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\2/wells-300x224.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\2/wells-300x224.jpg</image:loc>
 <image:title><![CDATA[A view of Wells Cathedral in Somerset]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\2/glastonbury-tor-300x225.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\2/glastonbury-tor-300x225.jpg</image:loc>
 <image:title><![CDATA[A view of Glastonbury Tor in Somerset]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\2/bath-300x261.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\2/bath-300x261.jpg</image:loc>
 <image:title><![CDATA[A view of Bath in Somerset]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\2/street-300x225.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\2/street-300x225.jpg</image:loc>
 <image:title><![CDATA[A view of Greenbank Pool in Street in Somerset]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://blarked.github.io/gh-pages/contact-us/</loc>
+<loc>https://www.oldbarncroscombe.co.uk/contact-us/</loc>
 <lastmod>2022-11-09T13:00:37+00:00</lastmod>
 </url>
 <url>
-<loc>https://blarked.github.io/gh-pages/home/</loc>
-<lastmod>2022-11-09T15:23:49+00:00</lastmod>
+<loc>https://www.oldbarncroscombe.co.uk/home/</loc>
+<lastmod>2022-11-10T11:48:06+00:00</lastmod>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\1/600px-2-2.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\1/600px-2-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\1/croscombe-2.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\1/croscombe-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\1/wells.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\1/wells.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\1/glastonbury-tor.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\1/glastonbury-tor.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\1/bath.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\1/bath.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blarked.github.io/gh-pages/media\posts\1/street.jpg</image:loc>
+<image:loc>https://www.oldbarncroscombe.co.uk/media\posts\1/street.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://blarked.github.io/gh-pages/rates-and-availability/</loc>
+<loc>https://www.oldbarncroscombe.co.uk/rates-and-availability/</loc>
 <lastmod>2022-11-09T12:16:46+00:00</lastmod>
 </url>
 </urlset>
